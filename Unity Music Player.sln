@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Music Player", "Assembly-CSharp-firstpass.csproj", "{EFE204D0-8813-DBA7-DC7F-970B6DCC89F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Music Player", "Assembly-CSharp.csproj", "{571D65F8-3AFE-C1D4-4640-3250E813EEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Music Player", "Assembly-CSharp-Editor-firstpass.csproj", "{F404B698-58EA-C048-9715-F34093C185DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Music Player", "Assembly-CSharp-Editor.csproj", "{DFF43E58-D761-C065-3B66-3BD8FB0C100E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE204D0-8813-DBA7-DC7F-970B6DCC89F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE204D0-8813-DBA7-DC7F-970B6DCC89F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE204D0-8813-DBA7-DC7F-970B6DCC89F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE204D0-8813-DBA7-DC7F-970B6DCC89F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571D65F8-3AFE-C1D4-4640-3250E813EEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571D65F8-3AFE-C1D4-4640-3250E813EEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571D65F8-3AFE-C1D4-4640-3250E813EEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571D65F8-3AFE-C1D4-4640-3250E813EEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F404B698-58EA-C048-9715-F34093C185DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F404B698-58EA-C048-9715-F34093C185DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F404B698-58EA-C048-9715-F34093C185DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F404B698-58EA-C048-9715-F34093C185DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF43E58-D761-C065-3B66-3BD8FB0C100E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF43E58-D761-C065-3B66-3BD8FB0C100E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF43E58-D761-C065-3B66-3BD8FB0C100E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF43E58-D761-C065-3B66-3BD8FB0C100E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
